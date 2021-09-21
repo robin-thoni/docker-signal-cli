@@ -1,6 +1,6 @@
-FROM openjdk:17
+FROM openjdk:18-jdk-bullseye
 
-ARG VERSION=0.8.0
+ARG VERSION=0.9.0
 
 ARG UID=1000
 
